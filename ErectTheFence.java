@@ -1,4 +1,6 @@
-//https://leetcode.com/problems/erect-the-fence/
+// https://leetcode.com/problems/erect-the-fence/
+// I've solved the problem with Jarvis convex hell algorithm
+
 class Solution {
     public int[][] outerTrees(int[][] trees) {
         
